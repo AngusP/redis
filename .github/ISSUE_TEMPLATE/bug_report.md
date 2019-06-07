@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Please keep issues to **bugs** and **feature requests** - if you're stuck on config or setting up or something simple, use the [Google Group](https://groups.google.com/forum/m/#!forum/Redis-db) or post on [Stack Overflow](https://stackoverflow.com/questions/tagged/redis) instead.
+
 **TL;DR:**
 Remember when writing an issue that you need to convince others to spend time working on the problem - try and explain why it is important, and make it as easy as possible for others to understand and reproduce the issue.
 

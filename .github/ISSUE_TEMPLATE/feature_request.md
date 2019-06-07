@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Please keep issues to **bugs** and **feature requests** - if you're stuck on config or setting up or something simple, use the [Google Group](https://groups.google.com/forum/m/#!forum/Redis-db) or post on [Stack Overflow](https://stackoverflow.com/questions/tagged/redis) instead.
+
 As a quick foreword, remember Redis has a Modules system - there might already be a module that does what you want, or a module might be the best way to solve your use case.
 
 **Is your feature request related to a problem?**
